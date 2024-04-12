@@ -1,2 +1,3 @@
-cccc
-c...c
+vstone cccc
+vstone c...c
+vstone final
